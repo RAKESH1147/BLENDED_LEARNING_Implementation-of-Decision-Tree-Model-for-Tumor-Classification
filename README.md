@@ -9,11 +9,15 @@ To implement and evaluate a Decision Tree model to classify tumors as benign or 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+!.Load and explore the tumor dataset.
 
+2.Preprocess data by selecting features and target variable.
+
+3.Split the dataset into training and testing sets.
+
+4.Train the Decision Tree Classifier on the training data.
+
+5.Predict on test data and evaluate performance using accuracy and confusion matrix.
 ## Program:
 ```.c
 Program to  implement a Decision Tree model for tumor classification.
